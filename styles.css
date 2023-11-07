@@ -118,6 +118,7 @@ span.days-left {
 
 hr {
   margin-bottom: 16px;
+  border-color: var(--very-dark-blue-line, #2f415b);
 }
 
 .creator {
